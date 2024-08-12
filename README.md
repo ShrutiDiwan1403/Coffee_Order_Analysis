@@ -1,10 +1,12 @@
-# France_Homefield_advantage
-**Objective Summary**: 
+# Coffee_Order_Analysis 
+**Objective Summary**: Coffee order Analysis from 2019 to August 2022.
 
 
-**Description and Insight**: 
+**Description and Insight**: The analysis helps one understand customer preferences on coffee bean types, quantity, and roast range using Excel. The project also covers a sales dashboard. This analysis can help improve the marketing strategy for the coffee business. Seasonal targeted promotion strategies can be designed for the Irish, American, and British markets. Finally, one can resume the customer loyalty program service, which includes their favorite products.
+The project doesn't give any insights into competitive analysis and inventory management.
 
-**Programming Language**: Python
+
+**Programming Language**: --
 
 
 **Tools**: Excel
