@@ -26,3 +26,10 @@ The project doesn't give any insights into competitive analysis and inventory ma
 
 
 ![Coffee_sale_dashboard_image](https://github.com/user-attachments/assets/957e0dc0-f36b-41a8-bd1f-70c40469e814)
+
+
+
+
+
+
+![coffee_](https://github.com/user-attachments/assets/cd8506ea-f703-41d8-9c0f-90d480c3883b)
