@@ -8,7 +8,7 @@
 The project doesn't give any insights into competitive analysis and inventory management.
 
 
-**Programming Language**: --
+**Programming Language OR Functions**: --
 
 
 **Tools**: Excel
