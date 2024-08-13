@@ -8,7 +8,7 @@
 The project doesn't give any insights into competitive analysis and inventory management.
 
 
-**Programming Language OR Excel Functions**: INDEX, XLOOKUP and other basic functions.
+**Excel Functions**: INDEX, XLOOKUP and other basic functions.
 
 
 **Tool**: Excel
