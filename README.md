@@ -11,7 +11,7 @@ The project doesn't give any insights into competitive analysis and inventory ma
 **Programming Language OR Excel Functions**: INDEX, XLOOKUP and other basic functions.
 
 
-**Tools**: Excel
+**Tool**: Excel
 
 
 **Performance Outcome**: In conclusion, coffee orders reveal insights like customer preferences, seasonal trends, and customer segmentation. It can also support supply chain optimization by forecasting the demand for ingredients to reduce waste. Ultimately, stores can tailor marketing strategies to capitalize on popular or under-ordered items and seize new opportunities.
